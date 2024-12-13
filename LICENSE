@@ -1,6 +1,4 @@
-MIT License
-
-Copyright (c) 2024 X-GORB Studio
+X-GORB Studio Open Source License (XGB)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,13 +7,46 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of License
+   1.1 The Licensor hereby grants you a worldwide, irrevocable, non-exclusive license to reproduce, distribute, modify, merge, publish, transmit this Software and its derivative works for any purpose.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Copyright Notice
+   Copyright (c) 2024 X-GORB Studio and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+3. Statement of Copyright
+   You must retain and display the original copyright notice, the name of the Software, and the complete text of the license.
+
+4. Modifications and Derivative Works
+   If you make modifications to the Software or create derivative works based on it, you must clearly indicate your contribution within these modifications or derivative works, and such modifications or derivative works must also comply with the same XGB License.
+
+5. Commercial Use
+   You may use this Software for commercial purposes without paying additional fees.
+
+6. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+7. Termination
+   Should you breach any term of this License, this License will terminate automatically.
+
+8. Governing Law and Dispute Resolution
+   This License shall be governed by and construed in accordance with the laws of the People's Republic of China.
+   Any disputes arising out of or in connection with this License shall be submitted to the competent court at Haidian District, Beijing City for resolution.
+
+9. Version Updates
+   The Licensor reserves the right to update and revise this License from time to time. New versions will be posted on the website https://xgorb.cn/XGB_license. You are advised to check the latest version regularly.
+
+10. Third-Party Intellectual Property Rights
+    You understand and agree that during the use of this Software, you may need to comply with the provisions of third-party intellectual property right holders.
+
+11. Privacy Policy
+    When using this Software, you should also comply with X-GORB Studio's Privacy Policy, which can be viewed at https://xgorb.cn/privacy-policy.
+
+12. Contact Information
+    For any questions or concerns, please contact us via email at contact@xgorb.cn.
